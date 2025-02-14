@@ -5,4 +5,5 @@ https://github.com/Abhi926572/B27-B28-ADM/blob/main/LAB2%5B1%5D.ipynb
 https://github.com/Abhi926572/B27-B28-ADM/blob/main/lab2%5B2%5D.ipynb
 https://github.com/Abhi926572/B27-B28-ADM/blob/main/lab3.ipynb
 https://github.com/Abhi926572/B27-B28-ADM/blob/main/outlier_lab_6.ipynb
+https://github.com/Abhi926572/B27-B28-ADM/blob/main/Lab_6_scores_csv.ipynb
 
